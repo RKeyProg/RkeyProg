@@ -2,7 +2,7 @@
 
 ## Front-End Developer 💻
 
-I'm 23 y.o. 
+I'm 23 y.o.
 Education: Minsk Radioengineering College (2018 - 2021) & Belarusian State University of Informatics and Radioelectronics (2022 - 2025)
 
 - 🌍  I'm based in Minsk, Belarus
