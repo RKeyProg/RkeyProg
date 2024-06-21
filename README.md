@@ -23,7 +23,7 @@ I'm 23 y.o. Education: 1. Minsk Radioengineering College. 2018 - 2021 2. Belarus
 
 ### Badges
 
-<a href="https://github.com/RKeyProg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKeyProg&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RKeyProg" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKeyProg&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
