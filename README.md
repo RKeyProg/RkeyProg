@@ -2,7 +2,10 @@
 
 ## Front-End Developer 💻
 
-I'm 23 y.o. Education: 1. Minsk Radioengineering College. 2018 - 2021 2. Belarusian State University of Informatics and Radioelectronics. 2022 - 2025
+I'm 23 y.o. 
+Education: 
+1. Minsk Radioengineering College. 2018 - 2021
+2. 2. Belarusian State University of Informatics and Radioelectronics. 2022 - 2025
 
 - 🌍  I'm based in Minsk, Belarus
 - ✉️  You can contact me at [rkey.official@gmail.com](mailto:rkey.official@gmail.com)
