@@ -7,9 +7,9 @@ Education: Minsk Radioengineering College (2018 - 2021) & Belarusian State Unive
 
 - 🌍  I'm based in Minsk, Belarus
 - ✉️  You can contact me at [rkey.official@gmail.com](mailto:rkey.official@gmail.com)
-- 🚀  I'm currently working on [React Native App](http://github.com/RKeyProg/aora)
-- 🧠  I'm learning React Native & Next.js
-- 🤝  I'm open to collaborating on React.js, Next.js projects
+- 🚀  I work at [Whitesnake](https://whitesnake.by)
+- 🧠  I'm learning React Native & Backend
+- 🤝  I'm open to collaborating on interesting projects
 - ⚡  I'm a bit of a snake enthusiast🐍
 
 ### Skills
